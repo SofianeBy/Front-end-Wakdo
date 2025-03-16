@@ -1,0 +1,9 @@
+.menu-nav {
+  display: flex;
+  background-color: aliceblue;
+  margin: 0 auto;
+  width: 80%;
+  justify-content: space-between;
+  height: 150px;
+  align-items: center;
+}
